@@ -1,2 +1,5 @@
 # Curso_OneBitCode
+
 Curso
+Data: 20 de julho de 1969
+Fato: Primeiro voo tripulado a pousar na Lua
