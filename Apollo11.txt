@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 
 Fato: Primeiro voo tripulado a pousar na Lua
 Duração:8 dias
 Orbitas lunares:30
 Descrição: Apollo 11 foi voo espacial tripulado norte-americano responsável pelo primeiro pouso na lua.Os astronautas Neil Armstrong e Buzz Aldrin alunissaram o módulo lunar Eagle em 20 de hulho de 1969 às 20:17 min UTC
+=======
+Data: 20 de julho de 1969
+Fato: Primeiro voo tripulado a pousar na Lua
+Commit
+>>>>>>> 836ed683e808a22a77928f3be726e3a015f3de04
